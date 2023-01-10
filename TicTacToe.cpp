@@ -30,7 +30,7 @@ void draw_board()
     system("cls");
     //Welcome Screen
     cout << "______________________\nWelcome to TicTacToe!\n______________________\n";
-
+    //Drawing the skeleton game board
     cout<<"     |     |     \n";
     cout<<"  "<<game_board[0][0]<<"  |  "<<game_board[0][1]<<"  |  "<<game_board[0][2]<<" \n";
     cout<<"_____|_____|_____\n";
