@@ -1,3 +1,3 @@
-# repository1
+# The TicTacToe Game
 
-A simple TicTqcToe Game Program, Coded in C++ Language
+A simple TicTacToe Game Program, Coded in C++ Language
